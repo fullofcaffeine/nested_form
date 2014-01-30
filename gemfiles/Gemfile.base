@@ -5,3 +5,5 @@ gem "simple_form"
 gem "formtastic"
 gem "formtastic-bootstrap"
 gem "rake"
+#Use the twitter bootstrap form for with my specific mods
+gem "twitter_boostrap_form_for", :git => 'git@github.com:fullofcaffeine/twitter_bootstrap_form_for.git'
